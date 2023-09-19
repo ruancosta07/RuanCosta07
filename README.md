@@ -1,5 +1,5 @@
  <h3>Olá, me chamo Ruan Costa, sou estudante de Análise e Desenvolvimento de Sistemas, <br> atualmente desenvolvo pequenos projetos front-end.</h2>
-- Interesse em atuar como estagiário na área de Front-End
+- Interesse em atuar como estagiário na área de Front-End <br>
 - Conhecimentos intermediários em UI Design, HTML5, CSS3 JavaScript.
  <br>
 
