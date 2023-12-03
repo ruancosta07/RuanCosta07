@@ -1,10 +1,10 @@
  <h3>Olá, me chamo Ruan Costa, sou estudante de Análise e Desenvolvimento de Sistemas, <br> atualmente desenvolvo pequenos projetos front-end.</h3>
 - Interesse em atuar como estagiário na área de Front-End <br>
-- Conhecimentos intermediários em UI Design, HTML5, CSS3 JavaScript.
+- Conhecimentos intermediários em UI Design, Figma, HTML5, CSS3, Tailwindcss e JavaScript.
  <br>
 
  <div align="start">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuanCosta07&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=F8F8FF&text_color=c9d1d9&bg_color=0d1117" alt="Ruan Costa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuanCosta07&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=824DCB&text_color=F8f8ff&bg_color=0d1117" alt="Ruan Costa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCosta07&layout=compact&hide_border=true&title_color=F8F8FF&text_color=00bfbf&bg_color=0d1117"/>
 </div>
  
