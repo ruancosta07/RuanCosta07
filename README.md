@@ -1,7 +1,7 @@
 ![Frame 1 (5)](https://github.com/ruancosta07/RuanCosta07/assets/143808398/632ee471-ceb9-4f7b-9b99-6faa99b0a285)
 <br>
 <br>
-#### Sou um desenvolvedor fullstack freelancer com foco na construção de sites, landing pages e sistemas web. Atualmente crio e desenvolvo projetos pessoais do absoluto zero no figma. Gosto de me desafiar criando projetos complexos e voltados para a resolução de problemas da vida real.
+### Sou um desenvolvedor fullstack freelancer com foco na construção de sites, landing pages e sistemas web. Atualmente crio e desenvolvo projetos pessoais do absoluto zero no figma. Gosto de me desafiar criando projetos complexos e voltados para a resolução de problemas da vida real.
 
 <br>
 
