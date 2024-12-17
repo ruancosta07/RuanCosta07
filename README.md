@@ -35,8 +35,7 @@ Sou um desenvolvedor fullstack com experiência na construção de diversos site
 
 ## 📂 Meus melhores repositórios
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruancosta07&repo=egames-2-client&bg_color=09090b&border_color=383941&title_color=f6f6f6&text_color=A5A6B1&icon_color=A5A6B1)](https://github.com/ruancosta07/devplannr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruancosta07&repo=egames-2-client&bg_color=09090b&border_color=383941&title_color=f6f6f6&text_color=A5A6B1&icon_color=A5A6B1)](https://github.com/ruancosta07/egames-2-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruancosta07&repo=Dogs&bg_color=09090b&border_color=383941&title_color=f6f6f6&text_color=A5A6B1&icon_color=A5A6B1)](https://github.com/ruancosta07/Dogs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruancosta07&repo=project_manager&bg_color=09090b&border_color=383941&title_color=f6f6f6&text_color=A5A6B1&icon_color=A5A6B1)](https://github.com/ruancosta07/project_manager)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruancosta07&repo=project_manager_api&bg_color=09090b&border_color=383941&title_color=f6f6f6&text_color=A5A6B1&icon_color=A5A6B1)](https://github.com/ruancosta07/project_manager_api)
 
