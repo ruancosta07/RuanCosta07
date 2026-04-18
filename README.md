@@ -28,4 +28,4 @@ Sou um desenvolvedor fullstack com experiência na construção de diversos site
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 </div>
- 
+  
