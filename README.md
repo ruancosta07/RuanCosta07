@@ -1,4 +1,4 @@
-![GithubStats](https://github-lemon.vercel.app/api)
+![GithubStats](https://github-lemon.vercel.app/api?v=1)
        
     
   
